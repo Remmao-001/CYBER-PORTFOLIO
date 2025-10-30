@@ -1,5 +1,5 @@
 # Hello, I'm Remmao
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/remmao-brown-32521b342/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a highschool student with a deep interest and background in cybersecurity and IT.
@@ -54,4 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Remmao-001/Steganography---Lab-steghide-app-">Steganography Lab (steghide app)</a>
-- SOC Automation Projec
+- Stegonagraphy Lab (zip command)
+- Phishing Project/ Credential Harvesting
+- Denial of Service (DoS) and Distributed Denial of Service (DDoS) attack
+- Protecting against DoS/DDoS via Firewall Port Blocking and Network Type
