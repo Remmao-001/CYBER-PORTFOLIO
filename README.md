@@ -14,10 +14,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Understanding and Use of Steganography Concepts          | <a href="https://github.com/Remmao-001/Steganography---Lab-steghide-app-">Steganography Lab (steghide app)</a>|
 | Profound Understanding of Network Resilience and Defense Strategies  | <a href="https://google.com">DOS/DDOS Attack Lab</a>|
-| Thorough Network Hardening and Resiliency Engineering | Defense Against DoS/DDos/RDP Attack|
-| Understanding of Soical Engineering and Credential THeft Vectors  | Phishing/ Credential Harvesitng Project|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Thorough Network Hardening and Resiliency Engineering |<a href="https://google.com">Defense Against DoS/DDos/RDP Attack</a> |
+| Understanding of Soical Engineering and Credential THeft Vectors  |  <a href="https://google.com">Phishing/ Credential Harvesting Project</a>|
+| Case Management with TheHive                  |  <a href="https://google.com">Coming Soon</a>|
+| Scripting and Automation for Threat Mitigation |  <a href="https://google.com">Coming Soon</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -54,7 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Remmao-001/Steganography---Lab-steghide-app-">Steganography Lab (steghide app)</a>
-- Stegonagraphy Lab (zip command)
-- Phishing/ Credential Harvesting Project
-- Denial of Service (DoS) and Distributed Denial of Service (DDoS) attack
-- Protecting against DoS/DDoS via Firewall Port Blocking and Network Type
+- <a href="https://github.com/Remmao-001/Steganography---Lab-steghide-app-">Stegonagraphy Lab (zip command)</a>
+- <a href="https://google.com">Phishing/ Credential Harvesting Project</a>
+- <a href="https://google.com">DOS/DDOS Attack Lab</a>
+- <a href="https://google.com">Defense Against DoS/DDos/RDP Attack</a>
