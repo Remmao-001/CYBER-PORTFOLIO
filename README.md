@@ -12,10 +12,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Remmao-001/Steganography---Lab-steghide-app-">Steganography Lab (steghide app)</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Understanding and Use of Steganography Concepts          | <a href="https://github.com/Remmao-001/Steganography---Lab-steghide-app-">Steganography Lab (steghide app)</a>|
+| Profound Understanding of Network Resilience and Defense Strategies  | <a href="https://google.com">DOS/DDOS Attack Lab</a>|
+| Thorough Network Hardening and Resiliency Engineering | Defense Against DoS/DDos/RDP Attack|
+| Understanding of Soical Engineering and Credential THeft Vectors  | Phishing/ Credential Harvesitng Project|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -55,6 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Remmao-001/Steganography---Lab-steghide-app-">Steganography Lab (steghide app)</a>
 - Stegonagraphy Lab (zip command)
-- Phishing Project/ Credential Harvesting
+- Phishing/ Credential Harvesting Project
 - Denial of Service (DoS) and Distributed Denial of Service (DDoS) attack
 - Protecting against DoS/DDoS via Firewall Port Blocking and Network Type
